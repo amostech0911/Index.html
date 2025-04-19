@@ -1,0 +1,47 @@
+*{
+  background: #8BC34A;
+}
+
+.head-title{
+  margin-left: 5px;
+  padding-left: 65px;
+  background: #CDDC39;
+  border-radius: 5px;
+}
+
+.web-an{
+  background: #8BC34A;
+  margin-left: 5px;
+}
+
+.span{
+  color: #34465D;
+}
+
+.text{
+  border: solid black;
+  margin-left: 5px;
+  padding-left: 7px;
+}
+
+.text-b{
+  padding: 15px;
+}
+
+.text-a{
+  margin-left: 6px;
+  padding-bottom: 0px;
+}
+
+.btn{
+  margin-left: 274px;
+  padding: 5px;
+  
+}
+
+.btn button{
+  padding: 6px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
